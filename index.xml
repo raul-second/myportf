@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Raul Lopez Portfolio</title>
+    <link>https://raullopez.onrender.com/</link>
+    <description>Recent content on Raul Lopez Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Oct 2023 12:29:40 +0600</lastBuildDate><atom:link href="https://raullopez.onrender.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>the blog page is under upgrade</title>
+      <link>https://raullopez.onrender.com/blog/a-new-year-a-new-posibility/</link>
+      <pubDate>Sun, 01 Oct 2023 12:29:40 +0600</pubDate>
+      
+      <guid>https://raullopez.onrender.com/blog/a-new-year-a-new-posibility/</guid>
+      <description>All contents are achieved and the page is being upgraded</description>
+    </item>
+    
+    <item>
+      <title>Solarity VR Community</title>
+      <link>https://raullopez.onrender.com/portfolio/solarity-vr/</link>
+      <pubDate>Sat, 12 Feb 2022 16:53:54 +0600</pubDate>
+      
+      <guid>https://raullopez.onrender.com/portfolio/solarity-vr/</guid>
+      <description>About the Project Solarity VR Community Project, an exciting NFT community built on the Solana network. The platform provides a unique virtual space for DAOs (Decentralized Autonomous Organizations) and members to showcase their NFTs, engage in meaningful conversations, and foster collaboration.
+Immerse yourself in our cutting-edge virtual reality environment, where you can exhibit your NFT collection in stunning displays and galleries. Connect with like-minded individuals who share your passion for digital art, blockchain technology, and the limitless possibilities of the metaverse.</description>
+    </item>
+    
+    <item>
+      <title>Sakura Motors</title>
+      <link>https://raullopez.onrender.com/portfolio/sakura/</link>
+      <pubDate>Fri, 01 Oct 2021 16:54:54 +0600</pubDate>
+      
+      <guid>https://raullopez.onrender.com/portfolio/sakura/</guid>
+      <description>About the Project I was in charge of website development for Sakura Motors, a company that sells new and used cars in Japan. Sakura Motors wanted to have a website that showcases their inventory, services, and customer testimonials. They also wanted to have a user-friendly interface, a fast and secure payment system, and a responsive design that works on different devices.
+To achieve these goals, I used the following technologies and tools:</description>
+    </item>
+    
+    <item>
+      <title>Slack Bot</title>
+      <link>https://raullopez.onrender.com/portfolio/slack-bot/</link>
+      <pubDate>Sun, 10 Nov 2019 16:58:55 +0600</pubDate>
+      
+      <guid>https://raullopez.onrender.com/portfolio/slack-bot/</guid>
+      <description>About the Project This project is for a Digital Marketing agency that is based on Miami, Florida USA. The agency is responsible for creating and managing advertising, marketing campaigns for several SMEs. I was in charge of integrating many e-commerce related service APIs and marketing APIs and tools. The ones I worked on were, Facebook and Google Ads APIs, TikTok APIs, Shopify, Klaviyo, Omnisend, Hyros, Airtable, Slack APIs, monday.com, Integromat(make.com), Zapier, twillo etc.</description>
+    </item>
+    
+    <item>
+      <title>Henryk Diamonds</title>
+      <link>https://raullopez.onrender.com/portfolio/henryk/</link>
+      <pubDate>Sat, 23 Mar 2019 16:59:54 +0600</pubDate>
+      
+      <guid>https://raullopez.onrender.com/portfolio/henryk/</guid>
+      <description>About the Project I was in charge of website development for Henryk Diamonds, a company that specializes in custom-made diamond jewelry in Canada. Henryk Diamonds wanted to have a website that showcases their products, services, and customer reviews. They also wanted to have a modern and elegant design, a simple and intuitive navigation, and a secure and convenient online ordering system.
+To achieve these goals, I used the following technologies and tools:</description>
+    </item>
+    
+    <item>
+      <title>Gmail Parser</title>
+      <link>https://raullopez.onrender.com/portfolio/gmail-parser/</link>
+      <pubDate>Fri, 25 Jan 2019 16:57:54 +0600</pubDate>
+      
+      <guid>https://raullopez.onrender.com/portfolio/gmail-parser/</guid>
+      <description>About the Project Eliminated tremendous time consuming manual work with this simple app. The client&amp;rsquo;s office received 20k mails every day, and they needed to aggregate these mails into one managable table and DB. I built this simple bot the raised the productivity of this company 100X!</description>
+    </item>
+    
+    <item>
+      <title>IELTS</title>
+      <link>https://raullopez.onrender.com/portfolio/ielts/</link>
+      <pubDate>Thu, 12 Jul 2018 16:56:54 +0600</pubDate>
+      
+      <guid>https://raullopez.onrender.com/portfolio/ielts/</guid>
+      <description>About the Project Built a desktop app for a Non-Profit Charity Project. Used Python, EEL and made a elegant and beautiful UI and UX solution unparallel to any other desktop app</description>
+    </item>
+    
+  </channel>
+</rss>
